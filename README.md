@@ -1,7 +1,7 @@
-#Answering Bot
+# Answering Bot
 ![logo](logo.png)
 
-##Description
+## Description
 >Attention! In this case, an «answering bot»  is meant as an answering machine
 
 **Mission** of answering bot:
@@ -121,7 +121,7 @@ The data you will need to enter:
 
 Also you can add/remove an user to your friends list or blacklist.
 
-#####- ADDING
+##### - ADDING
 
 To **add** a user to your **friends list**, select «**3**».
 The data you will need to enter:
@@ -130,7 +130,7 @@ The data you will need to enter:
 
 To **add** a user to **blacklist**, select «**4**», you will need to enter only the ID of the user, which you want to block.
 
-#####- REMOVING
+##### - REMOVING
 
 To **remove** a user from the **list of friends**, select «**5**». 
 You will need to enter the ID or Name of the user, which you want to delete.
